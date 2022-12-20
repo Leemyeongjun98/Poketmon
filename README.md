@@ -50,26 +50,36 @@
 
 ![main-gui1](https://user-images.githubusercontent.com/120614041/208721477-ffaadccf-50f7-4ef9-8326-1cb666cfa431.png)
 
-<br>
+<br><br><br>
 
 
 ### 게임시작 버튼을 누르면 로그인 창
   
 ![login](https://user-images.githubusercontent.com/120614041/208722277-cded9800-bb31-414a-87b9-a7664f943be0.png)
 
-<br>
+<br><br><br>
 
 ### 로그인 성공(DB 연동)
 
 ![login-user](https://user-images.githubusercontent.com/120614041/208723470-63ee3e21-ab15-4b7e-a55f-6f4e26266998.png)
 
-<br>
+<br><br><br>
+
+### 관리자 로그인(DB 연동)
+
+![login-admin](https://user-images.githubusercontent.com/120614041/208723725-4de27362-3605-4af9-b4f7-e6430d74e696.png)
+
+<br><br><br>
 
 ### 로그인 실패(DB 연동)
 
 ![login-fail](https://user-images.githubusercontent.com/120614041/208723362-72ee152c-672c-4a39-9a29-134297f46c2a.png)
 
-<br>
+<br><br><br>
+
+
+
+
 
 
 
