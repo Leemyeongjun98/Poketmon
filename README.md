@@ -90,7 +90,7 @@
 <br><br><br>
 
 ### 먹이주기 '예' 눌렀을 때
-### 에너지 증가, 경험치 증가, 에너지가 다 차 있을 때는 먹이를 먹지 못한다.
+#### 에너지 충전, 경험치 증가, 에너지가 다 차 있을 때는 먹이를 먹지 못한다.
 
 <figure class="third">
   
@@ -102,6 +102,24 @@
 
 <br><br><br>
 
+### 놀아주기
+
+![play-1](https://user-images.githubusercontent.com/120614041/208727914-d82a8f86-312d-4b95-9206-f2e4c074f884.png)
+
+<br><br><br>
+
+### 놀아주기 '예' 눌렀을 때
+#### 경험치 증가, 에너지 감소, 에너지가 없을 땐 놀아주지 못한다.
+
+<figure class="third">
+  
+  ![eat-1-exp](https://user-images.githubusercontent.com/120614041/208724766-a4b1168c-a4fa-4da0-9e15-a2793a8199da.png)
+  ![eat-success](https://user-images.githubusercontent.com/120614041/208724772-376979c3-c76f-4323-85ec-fcf8612ffddc.png)
+  ![eat-fail](https://user-images.githubusercontent.com/120614041/208727042-b2e011f9-ee62-45ce-aa34-31f81ee55c94.png)
+
+</figure>
+
+<br><br><br>
 
 
 
