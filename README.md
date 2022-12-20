@@ -42,12 +42,20 @@
 <br>
 <br>
 
-## - 주요 기능
+## - 구현 캡쳐
 <br>
 
 ### 처음 실행시 나오는 메인 GUI
 
 ![main-gui1](https://user-images.githubusercontent.com/120614041/208721477-ffaadccf-50f7-4ef9-8326-1cb666cfa431.png)
+
+<br>
+
+### 게임시작 버튼을 누르면 로그인 창
+
+![login](https://user-images.githubusercontent.com/120614041/208722277-cded9800-bb31-414a-87b9-a7664f943be0.png)
+
+
 
 
 <br>
