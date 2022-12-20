@@ -46,7 +46,7 @@
 
 <br>
 
-### 처음 실행시 나오는 메인 GUI
+### 처음 실행시 나오는 게임시작 GUI
 
 ![main-gui1](https://user-images.githubusercontent.com/120614041/208721477-ffaadccf-50f7-4ef9-8326-1cb666cfa431.png)
 
@@ -78,6 +78,11 @@
 <br><br><br>
 
 
+### 메인 GUI (일반유저)
+
+![main-gui2-user](https://user-images.githubusercontent.com/120614041/208724197-d4142a91-98f5-4846-b645-ed4064061148.png)
+
+<br><br><br>
 
 
 
