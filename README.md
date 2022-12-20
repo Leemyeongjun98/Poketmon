@@ -63,6 +63,10 @@
 
 ![insertmember](https://user-images.githubusercontent.com/120614041/208731730-b6d6fc06-c5ec-4db7-a7f1-bf974fd960c8.png)
 
+<br>
+
+![join](https://user-images.githubusercontent.com/120614041/208732038-0549aa62-55cd-4019-bdb6-c115f0e78c6a.png)
+
 <br><br><br>
 
 ### 로그인 성공, 관리자 로그인 성공, 로그인패실패(DB 연동)
