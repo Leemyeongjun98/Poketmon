@@ -113,9 +113,9 @@
 
 <figure class="third">
   
-  ![eat-1-exp](https://user-images.githubusercontent.com/120614041/208724766-a4b1168c-a4fa-4da0-9e15-a2793a8199da.png)
-  ![eat-success](https://user-images.githubusercontent.com/120614041/208724772-376979c3-c76f-4323-85ec-fcf8612ffddc.png)
-  ![eat-fail](https://user-images.githubusercontent.com/120614041/208727042-b2e011f9-ee62-45ce-aa34-31f81ee55c94.png)
+  ![play-1-exp](https://user-images.githubusercontent.com/120614041/208727922-951f0677-e96b-48ff-8e90-cc84754b3614.png)
+  ![play-success](https://user-images.githubusercontent.com/120614041/208727927-76420dcb-a198-48fe-8e66-afb633d10065.png)
+  ![play-fail](https://user-images.githubusercontent.com/120614041/208728987-0d60a1ad-6db4-4aeb-9ab8-7ab507dd66e6.png)
 
 </figure>
 
