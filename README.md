@@ -137,6 +137,34 @@
 
 </figure>
 
+### 전투하기
+
+![fight-1](https://user-images.githubusercontent.com/120614041/208730627-f8434cbc-071a-4fec-8ba5-9b8c242daab5.png)
+
+<br><br>
+
+### 전투하기 '예' 눌렀을 때
+#### 경험치 증가, 에너지 감소, 에너지 경고, 
+
+<figure class="third">
+  
+  ![eat-1-exp](https://user-images.githubusercontent.com/120614041/208731115-fa799afe-45c3-4306-89f9-8f0d46f6ce1b.png)
+  ![fight-success](https://user-images.githubusercontent.com/120614041/208730636-96f3a431-903b-4ac6-bfd8-b9c22a83b99f.png)
+  ![fight-fail](https://user-images.githubusercontent.com/120614041/208730632-63db6562-9da4-4e7d-9761-9e5051d10006.png)
+  ![restart](https://user-images.githubusercontent.com/120614041/208730642-bdf1b557-0280-422a-af3a-149a0502be23.png)
+
+</figure>
+
+
+
+
+
+
+
+
+
+
+
 <br>
 <br>
 <br>
