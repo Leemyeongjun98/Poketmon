@@ -59,6 +59,12 @@
 
 <br><br><br>
 
+### 회원가입
+
+![insertmember](https://user-images.githubusercontent.com/120614041/208731730-b6d6fc06-c5ec-4db7-a7f1-bf974fd960c8.png)
+
+<br><br><br>
+
 ### 로그인 성공, 관리자 로그인 성공, 로그인패실패(DB 연동)
 
 <figure class="third">
@@ -144,7 +150,7 @@
 <br><br>
 
 ### 전투하기 '예' 눌렀을 때
-#### 경험치 증가, 에너지 감소, 에너지 경고, 
+#### 경험치 증가, 에너지 감소, 에너지 경고, 위험
 
 <figure class="third">
   
