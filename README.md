@@ -89,6 +89,8 @@
 
 <br><br><br>
 
+### 먹이주기 '예' 눌렀을 때
+
 <figure class="third">
   
 ![eat-1-exp](https://user-images.githubusercontent.com/120614041/208724766-a4b1168c-a4fa-4da0-9e15-a2793a8199da.png)
