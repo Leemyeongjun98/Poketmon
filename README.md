@@ -61,7 +61,7 @@
 
 ### 로그인 성공(DB 연동)
 
-![main-gui1](https://user-images.githubusercontent.com/120614041/208721477-ffaadccf-50f7-4ef9-8326-1cb666cfa431.png)
+![login-user](https://user-images.githubusercontent.com/120614041/208723470-63ee3e21-ab15-4b7e-a55f-6f4e26266998.png)
 
 <br>
 
