@@ -59,6 +59,7 @@
 
 <br><br><br>
 
+### 로그인 성공, 관리자 로그인 성공, 로그인패실패(DB 연동)
 
 <figure class="third">
   
@@ -68,22 +69,6 @@
   
 </figure>
   
-### 로그인 성공(DB 연동)
-
-![login-user](https://user-images.githubusercontent.com/120614041/208723470-63ee3e21-ab15-4b7e-a55f-6f4e26266998.png)
-
-<br><br><br>
-
-### 관리자 로그인(DB 연동)
-
-![login-admin](https://user-images.githubusercontent.com/120614041/208723725-4de27362-3605-4af9-b4f7-e6430d74e696.png)
-
-<br><br><br>
-
-### 로그인 실패(DB 연동)
-
-![login-fail](https://user-images.githubusercontent.com/120614041/208723362-72ee152c-672c-4a39-9a29-134297f46c2a.png)
-
 <br><br><br>
 
 ### 메인 GUI (일반유저)
