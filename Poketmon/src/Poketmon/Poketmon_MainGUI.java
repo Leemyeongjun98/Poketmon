@@ -11,7 +11,7 @@ public class Poketmon_MainGUI extends JFrame implements ActionListener {
 
 	ImageIcon image1 = new ImageIcon("img/신난피카츄.png");
 	ImageIcon image2 = new ImageIcon("img/피카츄.png");
-	ImageIcon image3 = new ImageIcon("img/배고픈피카츄.gif");
+	ImageIcon image3 = new ImageIcon("img/배고픈피카츄.png");
 	Image img = image1.getImage();
 	int status = 0;
 
