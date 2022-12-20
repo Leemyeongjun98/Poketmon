@@ -44,7 +44,9 @@
 
 ## - 주요 기능
 <br>
+
 ### 처음 실행시 나오는 메인 GUI
+
 ![main-gui1](https://user-images.githubusercontent.com/120614041/208721477-ffaadccf-50f7-4ef9-8326-1cb666cfa431.png)
 
 
