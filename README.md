@@ -146,6 +146,8 @@
 
 </figure>
 
+<br><br><br>
+
 ### 전투하기
 
 ![fight-1](https://user-images.githubusercontent.com/120614041/208730627-f8434cbc-071a-4fec-8ba5-9b8c242daab5.png)
