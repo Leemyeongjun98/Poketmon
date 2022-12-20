@@ -165,10 +165,23 @@
 
 </figure>
 
+<br><br><br>
+
 ### 레벨 랭킹
 
 ![userranking](https://user-images.githubusercontent.com/120614041/208732249-87134de2-2a9a-4b21-9c0c-b3370b3c2275.png)
 
+<br><br><br>
+
+### 유저 관리하기(관리자)
+
+<figure class="third">
+
+  ![userlist](https://user-images.githubusercontent.com/120614041/208732256-8a8b4e1b-b3f2-435a-8a13-e04ef479e074.png)
+  ![userupdate](https://user-images.githubusercontent.com/120614041/208732254-aefc9640-9836-444d-a789-5d2911544af6.png)
+
+</figure> 
+ 
 <br><br><br>
 
 
