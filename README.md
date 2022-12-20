@@ -123,7 +123,7 @@
 
 ### 휴식하기
 
-![rest-1](https://user-images.githubusercontent.com/120614041/208729400-63578e68-40a2-460e-9c3d-66f7a8eb9017.png)
+![rest-1](https://user-images.githubusercontent.com/120614041/208730329-8f59daed-b0b1-415e-909d-4cc985e83c47.png)
 
 <br><br>
 
@@ -133,7 +133,7 @@
 <figure class="third">
 
   ![rest-success](https://user-images.githubusercontent.com/120614041/208729404-7b3b02a5-9903-440f-9f8e-f43a3561bd18.png)
-  ![rest-fail](https://user-images.githubusercontent.com/120614041/208729403-3cf535cc-e3ea-466f-99ea-2d02762016ae.png)
+  ![rest-fail](https://user-images.githubusercontent.com/120614041/208730334-ede19bc0-2b6a-4943-a536-75910d0e829d.png)
 
 </figure>
 
