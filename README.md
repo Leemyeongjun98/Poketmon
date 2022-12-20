@@ -93,11 +93,10 @@
 
 <figure class="third">
   
-![eat-1-exp](https://user-images.githubusercontent.com/120614041/208724766-a4b1168c-a4fa-4da0-9e15-a2793a8199da.png)
-![eat-fail](https://user-images.githubusercontent.com/120614041/208726906-8a499a34-23ec-4d71-8938-36ab35a2484d.png)
+  ![eat-1-exp](https://user-images.githubusercontent.com/120614041/208724766-a4b1168c-a4fa-4da0-9e15-a2793a8199da.png)
+  ![eat-fail](https://user-images.githubusercontent.com/120614041/208727042-b2e011f9-ee62-45ce-aa34-31f81ee55c94.png)
+  ![eat-success](https://user-images.githubusercontent.com/120614041/208724772-376979c3-c76f-4323-85ec-fcf8612ffddc.png)
 
-![eat-success](https://user-images.githubusercontent.com/120614041/208724772-376979c3-c76f-4323-85ec-fcf8612ffddc.png)
-  
 </figure>
 
 <br><br><br>
