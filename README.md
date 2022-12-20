@@ -14,8 +14,7 @@
 
 <br>
 
-##### 모든 유저는 Java GUI 를통해 OracleDB 를 이용하여 회원가입을 진행하게 되며, 로그인 후에 OracleDB에 저장된 데이터를 통해
-##### 유저의 닉네임과 레벨, 경험치, 에너지,관리자 계정인지 아닌지 판별하여 관리창이 뜨거나 뜨지않는다.상세한건 주요 기능에서 설명하겠습니다.
+##### 모든 유저는 Java GUI 를통해 OracleDB 를 이용하여 회원가입을 진행하게 되며, 로그인 후에 OracleDB에 저장된 데이터를 통해                                           유저의 닉네임과 레벨, 경험치, 에너지,관리자 계정인지 아닌지 판별하여 관리창이 뜨거나 뜨지않는다.
 
 <br>
 <br>
@@ -184,18 +183,20 @@
  
 <br><br><br>
 
+### 야생으로 방생하기
+
+![reset](https://user-images.githubusercontent.com/120614041/208732958-e70eff21-bbed-4a30-999f-74cf8177abd8.png)
+
+<br><br><br>
+
+### 저장하기
+
+![save](https://user-images.githubusercontent.com/120614041/208732961-a1dbb8d9-7687-4ece-83f3-fa07b831747b.png)
 
 
+<br><br><br>
 
 
-
-
-
-
-
-<br>
-<br>
-<br>
 <br>
 
 ## - 개선점
