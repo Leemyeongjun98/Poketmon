@@ -51,10 +51,16 @@
 
 <br>
 
+
+
+
+
+
 ### 게임시작 버튼을 누르면 로그인 창
 
+<p align="center">
 ![login](https://user-images.githubusercontent.com/120614041/208722277-cded9800-bb31-414a-87b9-a7664f943be0.png)
-
+</p>
 
 
 
