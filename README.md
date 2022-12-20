@@ -77,10 +77,21 @@
 
 <br><br><br>
 
-
 ### 메인 GUI (일반유저)
 
 ![main-gui2-user](https://user-images.githubusercontent.com/120614041/208724197-d4142a91-98f5-4846-b645-ed4064061148.png)
+
+<br><br><br>
+
+### 메인 GUI (관리자)
+
+![main-gui2-admin](https://user-images.githubusercontent.com/120614041/208724201-bff1799d-1dfa-46bd-9957-16a0aef58a51.png)
+
+<br><br><br>
+
+### 먹이주기
+
+![eat-1](https://user-images.githubusercontent.com/120614041/208724759-e704bc25-ab46-4c6a-8763-0bb4291a6340.png)
 
 <br><br><br>
 
