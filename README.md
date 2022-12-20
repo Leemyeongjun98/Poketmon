@@ -1,9 +1,5 @@
 # :speech_balloon: Poketmon 키우기 게임
-<br>
-<br>
-<br>
-<br>
-<br>
+
 ### 주제 선정(목적)
 <br>
 ##### 한달 반 동안의 수업시간에 배운 Java, 이클립스, SQL DB연동 등 활용해서 
