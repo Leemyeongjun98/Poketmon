@@ -44,7 +44,7 @@
 
 ## - 주요 기능
 
-![main-gui1](https://user-images.githubusercontent.com/120614041/208720853-2867769f-6937-4ce4-ae6e-70689063ce28.png)
+![main-gui1]<img width="80%">(https://user-images.githubusercontent.com/120614041/208721477-ffaadccf-50f7-4ef9-8326-1cb666cfa431.png)
 
 <br>
 <br>
